@@ -101,7 +101,7 @@ Note: Custom properties starts with K eg KStartColor
 5. Run the application using the Runner class.
 
 ## Authors
-- [Vaneeza](https://github.com/samarthswami1016)
+- [Samarth swami](https://github.com/samarthswami1016)
   
 ## License
 This project is licensed under the [MIT License](LICENSE).
